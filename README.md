@@ -35,4 +35,4 @@ Configuration manager highlight
 
 ![image](https://user-images.githubusercontent.com/76439683/144736015-7f0311c1-53ff-40ca-89ba-a1544b56ad01.png)
 
-Find/replace highlight
+Find/replace
